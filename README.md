@@ -85,5 +85,5 @@ Svelte version 3.31 or greater is required to use this library with TypeScript.
 
 [MIT](LICENSE)
 
-[npm]: https://img.shields.io/npm/v/svelte-iconoir.svg?color=%232b4cf9style=for-the-badge
+[npm]: https://img.shields.io/npm/v/svelte-iconoir.svg?color=%230969da&style=for-the-badge
 [npm-url]: https://npmjs.com/package/svelte-iconoir
