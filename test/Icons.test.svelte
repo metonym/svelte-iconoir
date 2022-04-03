@@ -3,7 +3,7 @@
   import AddPage from "../lib/AddPage.svelte";
 </script>
 
-<Icon_1stMedal />
+<Icon_1stMedal fill="red" />
 <Camera />
 <Fishing />
 <AddPage width="30" />
