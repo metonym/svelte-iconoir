@@ -1,5 +1,5 @@
 <script lang="ts">
-  import { _1stMedal as Icon_1stMedal, Camera, Fishing } from "../lib";
+  import { _1stMedal as Icon_1stMedal, Camera, Fishing, AppleWallet } from "../lib";
   import AddPage from "../lib/AddPage.svelte";
 </script>
 
@@ -7,3 +7,4 @@
 <Camera />
 <Fishing />
 <AddPage width="30" />
+<AppleWallet fill="red" />
