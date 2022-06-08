@@ -1,6 +1,6 @@
 # Icon Index
 
-> 1091 total icons
+> 1151 total icons
 
 ## Icons
 
@@ -45,6 +45,7 @@
 - AddSquare
 - AddToCart
 - AddUser
+- AfricanTree
 - AirConditioner
 - AirplaneHelix45deg
 - AirplaneHelix
@@ -122,6 +123,8 @@
 - Bbq
 - BeachBagBig
 - BeachBag
+- BedReady
+- Bed
 - BehanceSquared
 - Behance
 - BellNotification
@@ -134,6 +137,7 @@
 - BinMinus
 - Bin
 - Bishop
+- Bitbucket
 - BluetoothRounded
 - Bluetooth
 - BoldSquareOutline
@@ -207,6 +211,7 @@
 - CinemaOld
 - Circle
 - City
+- CleanWater
 - ClipboardCheck
 - ClockOutline
 - Closet
@@ -250,6 +255,7 @@
 - CreativeCommons
 - CreditCard2
 - CreditCard
+- Crib
 - CropRotateBl
 - CropRotateBr
 - CropRotateTl
@@ -289,7 +295,9 @@
 - DeleteCircledOutline
 - DeliveryTruck
 - Delivery
+- Depth
 - DesignPencil
+- Desk
 - Dialpad
 - DiceFive
 - DiceFour
@@ -297,6 +305,8 @@
 - DiceSix
 - DiceThree
 - DiceTwo
+- DimmerSwitch
+- DirectorChair
 - Discord
 - Dishwasher
 - DivideSelection1
@@ -317,6 +327,15 @@
 - DragHandGesture
 - Drawer
 - Dribbble
+- DroneChargeFull
+- DroneChargeHalf
+- DroneChargeLow
+- DroneCheck
+- DroneError
+- DroneLanding
+- DroneRefresh
+- DroneTakeOff
+- Drone
 - DropletHalf
 - Droplet
 - EaseCurveControlPoints
@@ -325,6 +344,7 @@
 - EaseIn
 - EaseOutControlPoint
 - EaseOut
+- EcologyBook
 - EditPencil
 - Edit
 - Egg
@@ -422,6 +442,7 @@
 - Fluorine
 - Fog
 - FolderAlert
+- FolderSettings
 - Folder
 - FontSize
 - FootballBall
@@ -444,8 +465,12 @@
 - Gas
 - Gift
 - GitBranch
+- GitCommand
 - GitCommit
+- GitCompare
+- GitFork
 - GitMerge
+- GitPullRequest
 - GithubOutline
 - Github
 - GitlabFull
@@ -467,6 +492,9 @@
 - Gps
 - GraphDown
 - GraphUp
+- GreenBus
+- GreenTruck
+- GreenVehicle
 - GridAdd
 - GridMinus
 - GridRemove
@@ -502,22 +530,29 @@
 - HomeAltSlim
 - HomeAlt
 - HomeHospital
+- HomeSale
+- HomeSecure
+- HomeShield
 - HomeSimpleDoor
 - HomeSimple
+- HomeTable
 - HomeUser
 - Home
 - HorizDistributionLeft
 - HorizDistributionRight
 - HospitalSign
 - Hospital
+- HotAirBalloon
 - Hourglass
 - Html5
 - Hydrogen
 - Iconoir
 - Import
 - Industry
+- Infinite
 - InfoEmpty
 - InputField
+- InputOutput
 - InputSearch
 - Instagram
 - Internet
@@ -555,6 +590,7 @@
 - LayoutRight
 - LeaderboardStar
 - Leaderboard
+- Leaf
 - LeftRoundArrow
 - Lens
 - Lifebelt
@@ -633,6 +669,7 @@
 - MinusPinAlt
 - MinusSquare
 - Minus
+- Mirror
 - MissingFont
 - ModernTv4k
 - ModernTv
@@ -681,6 +718,7 @@
 - NoBattery
 - NoCoin
 - NoCreditCard
+- NoLink
 - NoLock
 - NoSmokingCircled
 - NoSmoking
@@ -702,6 +740,8 @@
 - OrangeHalf
 - OrangeSliceAlt
 - OrangeSlice
+- OrganicFoodSquared
+- OrganicFood
 - OrthogonalView
 - Oxygen
 - PackageLock
@@ -753,8 +793,10 @@
 - PhoneRemove
 - Phone
 - PiggyBank
+- Pillow
 - PinAlt
 - Pin
+- PineTree
 - Pinterest
 - PizzaSlice
 - PlanetAlt
@@ -816,10 +858,12 @@
 - RemoveKeyframeAlt
 - RemoveKeyframe
 - RemoveKeyframes
+- RemoveLink
 - RemoveMediaImage
 - RemoveMediaVideo
 - RemovePage
 - RemovePinAlt
+- RemovePin
 - RemoveSelection
 - RemoveSquare
 - RemoveUser
@@ -827,15 +871,18 @@
 - Repeat
 - ReportColumns
 - Reports
+- Repository
 - Restart
 - RewindOutline
 - Rhombus
 - RightRoundArrow
 - Rings
+- Rocket
 - Rook
 - RotateCameraLeft
 - RotateCameraRight
 - RoundFlask
+- RoundedMirror
 - RssFeedSquared
 - RssFeed
 - RulerAdd
@@ -916,6 +963,9 @@
 - Skateboarding
 - SkipNextOutline
 - SkipPrevOutline
+- SleeperChair
+- SmallLampAlt
+- SmallLamp
 - SmallShopAlt
 - SmallShop
 - SmartphoneDevice
@@ -925,8 +975,12 @@
 - Snow
 - Soap
 - SoccerBall
+- Sofa
+- SoilAlt
+- Soil
 - SortDown
 - SortUp
+- Sort
 - SoundHigh
 - SoundLow
 - SoundMin
@@ -1001,6 +1055,7 @@
 - Translate
 - Trash
 - Treadmill
+- Tree
 - Trekking
 - Trello
 - TriangleFlagCircle
@@ -1017,6 +1072,7 @@
 - TwitterVerifiedBadge
 - Twitter
 - TwoPointsCircle
+- TwoSeaterSofa
 - Type
 - UmbrellaFull
 - UnderlineSquareOutline
@@ -1040,6 +1096,9 @@
 - UserScan
 - UserSquareAlt
 - User
+- VeganRounded
+- VeganSquared
+- Vegan
 - VerifiedBadge
 - VerifiedUser
 - VideoCameraOff
@@ -1067,6 +1126,7 @@
 - WarningWindow
 - Wash
 - WashingMachine
+- WateringSoil
 - WebWindowClose
 - WebWindowEnergyConsumption
 - WebWindow
