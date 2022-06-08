@@ -17,10 +17,10 @@
   },
   "devDependencies": {
     "gh-pages": "^4.0.0",
-    "iconoir": "4.9.2",
-    "rollup": "^2.74.1",
+    "iconoir": "5.0.0",
+    "rollup": "^2.75.6",
     "svelte": "^3.48.0",
-    "svelte-check": "^2.7.1",
+    "svelte-check": "^2.7.2",
     "svelte-readme": "^3.6.3",
     "svelvg": "^0.10.1"
   },
