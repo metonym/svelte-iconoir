@@ -17,12 +17,12 @@
   },
   "devDependencies": {
     "gh-pages": "^4.0.0",
-    "iconoir": "5.0.0",
-    "rollup": "^2.75.6",
-    "svelte": "^3.48.0",
-    "svelte-check": "^2.7.2",
+    "iconoir": "5.2.0",
+    "rollup": "^2.78.1",
+    "svelte": "^3.49.0",
+    "svelte-check": "^2.8.1",
     "svelte-readme": "^3.6.3",
-    "svelvg": "^0.10.1"
+    "svelvg": "^0.11.2"
   },
   "repository": {
     "type": "git",
