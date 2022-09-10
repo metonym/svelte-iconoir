@@ -1,6 +1,6 @@
 # Icon Index
 
-> 1151 total icons
+> 1188 total icons
 
 ## Icons
 
@@ -39,6 +39,7 @@
 - AddLens
 - AddMediaImage
 - AddMediaVideo
+- AddPageAlt
 - AddPage
 - AddPinAlt
 - AddSelection
@@ -66,6 +67,7 @@
 - AlignRightBox
 - AlignRight
 - AlignTopBox
+- AngleTool
 - AntennaOff
 - AntennaSignalRounded
 - AntennaSignal
@@ -104,6 +106,7 @@
 - Attachment
 - AugmentedReality
 - AutoFlash
+- AviFormat
 - Axes
 - Backward15Seconds
 - Bag
@@ -164,6 +167,7 @@
 - BoxIso
 - Box
 - BoxingGlove
+- BreadSlice
 - BrightnessWindow
 - Brightness
 - BubbleDownload
@@ -214,6 +218,7 @@
 - CleanWater
 - ClipboardCheck
 - ClockOutline
+- ClosedCaptions
 - Closet
 - CloudBookAlt
 - CloudCheck
@@ -224,10 +229,12 @@
 - CloudSync
 - CloudUpload
 - Cloud
+- Clutery
 - CodeBracketsSquare
 - CodeBrackets
 - Code
 - Codepen
+- CoffeeCup
 - Coin
 - CollageFrame
 - Collapse
@@ -296,6 +303,7 @@
 - DeliveryTruck
 - Delivery
 - Depth
+- DesignNib
 - DesignPencil
 - Desk
 - Dialpad
@@ -448,7 +456,9 @@
 - FootballBall
 - Football
 - Forward15Seconds
+- ForwardMessage
 - ForwardOutline
+- Forward
 - FrameAltEmpty
 - FrameAlt
 - FrameSelect
@@ -463,6 +473,7 @@
 - GasTankDrop
 - GasTank
 - Gas
+- GifFormat
 - Gift
 - GitBranch
 - GitCommand
@@ -502,6 +513,7 @@
 - Gym
 - HalfCookie
 - HalfMoon
+- Hammer
 - HandBrake
 - Handbag
 - HardDrive
@@ -565,6 +577,8 @@
 - Italic
 - JournalPage
 - Journal
+- JpegFormat
+- JpgFormat
 - KanbanBoard
 - KeyAltBack
 - KeyAltMinus
@@ -602,6 +616,7 @@
 - Link
 - Linkedin
 - Linux
+- ListSelect
 - List
 - LoadActionFloppy
 - LockKey
@@ -627,7 +642,9 @@
 - MacOsWindow
 - MagnetEnergy
 - Magnet
+- MailIn
 - MailOpened
+- MailOut
 - Mail
 - Male
 - MapIssue
@@ -689,6 +706,7 @@
 - MoveRuler
 - MoveUp
 - Movie
+- MpegFormat
 - MultiBubble
 - MultiMacOsWindow
 - MultiWindow
@@ -723,6 +741,8 @@
 - NoSmokingCircled
 - NoSmoking
 - Notes
+- NpmSquare
+- Npm
 - NumberedListLeft
 - NumberedListRight
 - Octagon
@@ -812,6 +832,7 @@
 - PlugTypeG
 - PlugTypeL
 - Plus
+- PngFormat
 - Pocket
 - Podcast
 - Pokeball
@@ -836,6 +857,7 @@
 - QuoteMessage
 - Quote
 - Rain
+- RawFormat
 - ReceiveDollars
 - ReceiveEuros
 - ReceivePounds
@@ -861,6 +883,7 @@
 - RemoveLink
 - RemoveMediaImage
 - RemoveMediaVideo
+- RemovePageAlt
 - RemovePage
 - RemovePinAlt
 - RemovePin
@@ -869,6 +892,8 @@
 - RemoveUser
 - RepeatOnce
 - Repeat
+- ReplyToMessage
+- Reply
 - ReportColumns
 - Reports
 - Repository
@@ -902,6 +927,7 @@
 - Scarf
 - ScissorAlt
 - Scissor
+- Screenshot
 - SeaAndSun
 - SeaWaves
 - SearchEngine
@@ -913,10 +939,13 @@
 - SelectWindow
 - Selection
 - SelectiveTool
+- SendDiagonal
 - SendDollars
 - SendEuros
+- SendMail
 - SendPounds
 - SendYens
+- Send
 - ServerConnection
 - Server
 - SettingsCloud
@@ -1002,9 +1031,11 @@
 - Stretching
 - Stroller
 - StyleBorder
+- SubmitDocument
 - Substract
 - Suggestion
 - SunLight
+- SvgFormat
 - Swimming
 - SwipeDownGesture
 - SwipeLeftGesture
@@ -1030,6 +1061,7 @@
 - TerminalSimple
 - TestTube
 - TextAlt
+- TextBox
 - TextSize
 - Text
 - ThreePointsCircle
@@ -1037,9 +1069,12 @@
 - ThumbsDown
 - ThumbsUp
 - Thunderstorm
+- TifFormat
+- TiffFormat
 - Tiktok
 - TimerOff
 - Timer
+- Tools
 - Tournament
 - TowerCheck
 - TowerNoAccess
@@ -1130,6 +1165,7 @@
 - WebWindowClose
 - WebWindowEnergyConsumption
 - WebWindow
+- WebpFormat
 - WeightAlt
 - Weight
 - WhiteFlag
@@ -1142,6 +1178,7 @@
 - Wind
 - Windows
 - WrapText
+- Wrench
 - Wristwatch
 - Www
 - XboxA
