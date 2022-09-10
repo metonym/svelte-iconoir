@@ -14,21 +14,14 @@ Try it in the [Svelte REPL](https://svelte.dev/repl/53594a5a28854e738197bca9e090
 
 ## Installation
 
-**Yarn**
-
 ```bash
+# Yarn
 yarn add -D svelte-iconoir
-```
 
-**NPM**
-
-```bash
+# npm
 npm i -D svelte-iconoir
-```
 
-**pnpm**
-
-```bash
+# pnpm
 pnpm i -D svelte-iconoir
 ```
 
