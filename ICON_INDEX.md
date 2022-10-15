@@ -1,6 +1,6 @@
 # Icon Index
 
-> 1188 total icons
+> 1189 total icons
 
 ## Icons
 
@@ -409,6 +409,7 @@
 - Facebook
 - Facetime
 - Farm
+- FastArrowBottom
 - FastArrowDownBox
 - FastArrowDown
 - FastArrowLeftBox
