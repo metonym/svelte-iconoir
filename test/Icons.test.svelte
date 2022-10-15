@@ -6,6 +6,7 @@
     Fishing,
     AppleWallet,
     Bed,
+    FastArrowBottom,
   } from "../lib";
   import AddPage from "../lib/AddPage.svelte";
 </script>
@@ -17,3 +18,4 @@
 <AddPage width="30" />
 <AppleWallet fill="red" />
 <Bed />
+<FastArrowBottom />
