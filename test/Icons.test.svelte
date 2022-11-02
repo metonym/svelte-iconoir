@@ -7,6 +7,7 @@
     AppleWallet,
     Bed,
     FastArrowBottom,
+    Divide,
   } from "../lib";
   import AddPage from "../lib/AddPage.svelte";
 </script>
@@ -19,3 +20,4 @@
 <AppleWallet fill="red" />
 <Bed />
 <FastArrowBottom />
+<Divide />
