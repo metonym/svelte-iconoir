@@ -1,6 +1,6 @@
 # Icon Index
 
-> 1189 total icons
+> 1210 total icons
 
 ## Icons
 
@@ -89,6 +89,10 @@
 - Archive
 - AreaSearch
 - ArrowArchery
+- ArrowBlCircled
+- ArrowBlSquare
+- ArrowBrCircled
+- ArrowBrSquare
 - ArrowDownCircled
 - ArrowDown
 - ArrowLeftCircled
@@ -97,6 +101,10 @@
 - ArrowRight
 - ArrowSeparateVertical
 - ArrowSeparate
+- ArrowTlCircled
+- ArrowTlSquare
+- ArrowTrCircled
+- ArrowTrSquare
 - ArrowUnionVertical
 - ArrowUnion
 - ArrowUpCircled
@@ -319,6 +327,8 @@
 - Dishwasher
 - DivideSelection1
 - DivideSelection2
+- DivideThree
+- Divide
 - DocSearchAlt
 - DocSearch
 - DocStarAlt
@@ -333,6 +343,7 @@
 - DownloadSquareOutline
 - Download
 - DragHandGesture
+- Drag
 - Drawer
 - Dribbble
 - DroneChargeFull
@@ -553,6 +564,8 @@
 - Home
 - HorizDistributionLeft
 - HorizDistributionRight
+- HorizontalMerge
+- HorizontalSplit
 - HospitalSign
 - Hospital
 - HotAirBalloon
@@ -769,10 +782,14 @@
 - Package
 - Packages
 - Pacman
+- PageDown
 - PageEdit
 - PageFlip
+- PageLeft
+- PageRight
 - PageSearch
 - PageStar
+- PageUp
 - Page
 - Palette
 - PanoramaEnlarge
@@ -784,6 +801,7 @@
 - PasswordError
 - PasswordPass
 - PasteClipboard
+- PathArrow
 - PauseOutline
 - PauseWindow
 - PcCheck
@@ -983,6 +1001,7 @@
 - ShoppingCode
 - ShortPantsAlt
 - ShortPants
+- Shortcut
 - Shuffle
 - SidebarCollapse
 - SidebarExpand
@@ -1137,6 +1156,8 @@
 - Vegan
 - VerifiedBadge
 - VerifiedUser
+- VerticalMerge
+- VerticalSplit
 - VideoCameraOff
 - VideoCamera
 - ViewColumns2
