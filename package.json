@@ -17,7 +17,7 @@
   },
   "devDependencies": {
     "gh-pages": "^4.0.0",
-    "iconoir": "5.4.0",
+    "iconoir": "5.5.0",
     "rollup": "^2.79.1",
     "svelte": "^3.54.0",
     "svelte-check": "^2.10.1",
