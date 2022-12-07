@@ -1,6 +1,6 @@
 # Icon Index
 
-> 1210 total icons
+> 1236 total icons
 
 ## Icons
 
@@ -110,6 +110,8 @@
 - ArrowUpCircled
 - ArrowUp
 - Asana
+- AtSignCircle
+- AtSign
 - Atom
 - Attachment
 - AugmentedReality
@@ -175,6 +177,10 @@
 - BoxIso
 - Box
 - BoxingGlove
+- BrainElectricity
+- BrainResearch
+- BrainWarning
+- Brain
 - BreadSlice
 - BrightnessWindow
 - Brightness
@@ -194,8 +200,12 @@
 - Calendar
 - Camera
 - Cancel
+- CandlestickChart
 - CarOutline
 - Carbon
+- CardIssue
+- CardLocked
+- CardSecurity
 - CardWallet
 - CartAlt
 - Cart
@@ -258,6 +268,7 @@
 - Consumable
 - ControlSlider
 - Cookie
+- Cooling
 - Copy
 - Copyright
 - CornerBottomLeft
@@ -270,6 +281,7 @@
 - CreativeCommons
 - CreditCard2
 - CreditCard
+- CreditCards
 - Crib
 - CropRotateBl
 - CropRotateBr
@@ -315,6 +327,7 @@
 - DesignPencil
 - Desk
 - Dialpad
+- Diameter
 - DiceFive
 - DiceFour
 - DiceOne
@@ -329,6 +342,7 @@
 - DivideSelection2
 - DivideThree
 - Divide
+- Dna
 - DocSearchAlt
 - DocSearch
 - DocStarAlt
@@ -420,7 +434,6 @@
 - Facebook
 - Facetime
 - Farm
-- FastArrowBottom
 - FastArrowDownBox
 - FastArrowDown
 - FastArrowLeftBox
@@ -513,6 +526,7 @@
 - GoogleOne
 - Google
 - Gps
+- GraduationCap
 - GraphDown
 - GraphUp
 - GreenBus
@@ -540,6 +554,7 @@
 - HealthShield
 - Healthcare
 - Heart
+- Heating
 - HeavyRain
 - Heptagon
 - HerSlips
@@ -574,6 +589,7 @@
 - Hydrogen
 - Iconoir
 - Import
+- Inclination
 - Industry
 - Infinite
 - InfoEmpty
@@ -671,6 +687,7 @@
 - MapsTurnLeft
 - MapsTurnRight
 - MaskSquare
+- MastercardCard
 - MathBook
 - Maximize
 - Medal
@@ -695,6 +712,7 @@
 - MicSpeaking
 - MicWarning
 - Mic
+- Microscope
 - Minus1
 - MinusHexagon
 - MinusPinAlt
@@ -804,6 +822,7 @@
 - PathArrow
 - PauseOutline
 - PauseWindow
+- Paypal
 - PcCheck
 - PcFirewall
 - PcMouse
@@ -875,6 +894,8 @@
 - QuestionSquareOutline
 - QuoteMessage
 - Quote
+- Radiation
+- Radius
 - Rain
 - RawFormat
 - ReceiveDollars
@@ -929,6 +950,7 @@
 - RoundedMirror
 - RssFeedSquared
 - RssFeed
+- RubikCube
 - RulerAdd
 - RulerCombine
 - RulerRemove
@@ -1158,6 +1180,7 @@
 - VerifiedUser
 - VerticalMerge
 - VerticalSplit
+- Vials
 - VideoCameraOff
 - VideoCamera
 - ViewColumns2
@@ -1203,14 +1226,17 @@
 - Wrench
 - Wristwatch
 - Www
+- XCoordinate
 - XboxA
 - XboxB
 - XboxX
 - XboxY
 - XrayView
+- YCoordinate
 - YenSquare
 - Yen
 - Yoga
 - Youtube
+- ZCoordinate
 - ZoomIn
 - ZoomOut
