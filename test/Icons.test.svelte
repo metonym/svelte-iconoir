@@ -1,6 +1,7 @@
 <script lang="ts">
   import {
     _1stMedal as Icon_1stMedal,
+    AddCircle,
     AngleTool,
     Camera,
     Fishing,
@@ -12,6 +13,7 @@
   import AddPage from "../lib/AddPage.svelte";
 </script>
 
+<AddCircle />
 <Icon_1stMedal fill="red" />
 <AngleTool />
 <Camera />
