@@ -1,6 +1,6 @@
 # Icon Index
 
-> 1235 total icons
+> 1259 total icons
 
 ## Icons
 
@@ -47,6 +47,7 @@
 - AddToCart
 - AddUser
 - AfricanTree
+- Agile
 - AirConditioner
 - AirplaneHelix45deg
 - AirplaneHelix
@@ -183,6 +184,8 @@
 - BrainWarning
 - Brain
 - BreadSlice
+- BrightCrown
+- BrightStar
 - BrightnessWindow
 - Brightness
 - BubbleDownload
@@ -198,6 +201,8 @@
 - Bus
 - CableTag
 - Calculator
+- CalendarMinus
+- CalendarPlus
 - Calendar
 - Camera
 - Cancel
@@ -261,6 +266,7 @@
 - ColorPickerEmpty
 - ColorPicker
 - Combine
+- Community
 - CompactDisc
 - Compass
 - CompressLines
@@ -288,6 +294,8 @@
 - CropRotateTl
 - CropRotateTr
 - Crop
+- CrownCircle
+- Crown
 - Css3
 - CursorPointer
 - CutAlt
@@ -500,11 +508,13 @@
 - GifFormat
 - Gift
 - GitBranch
+- GitCherryPickCommit
 - GitCommand
 - GitCommit
 - GitCompare
 - GitFork
 - GitMerge
+- GitPullRequestClosed
 - GitPullRequest
 - GithubCircle
 - Github
@@ -615,6 +625,7 @@
 - KeyAltPlus
 - KeyAltRemove
 - KeyAlt
+- KeyCommand
 - KeyframeAlignCenter
 - KeyframeAlignHorizontal
 - KeyframeAlignVertical
@@ -635,6 +646,7 @@
 - LeaderboardStar
 - Leaderboard
 - Leaf
+- Learning
 - LeftRoundArrow
 - Lens
 - Lifebelt
@@ -697,6 +709,7 @@
 - MediaVideoFolder
 - MediaVideoList
 - MediaVideo
+- MediumPriority
 - Medium
 - Megaphone
 - MenuScale
@@ -781,6 +794,7 @@
 - Octagon
 - OffTag
 - OilIndustry
+- Okrs
 - OnTag
 - OneFingerSelectHandGesture
 - OnePointCircle
@@ -880,6 +894,7 @@
 - Potion
 - Pound
 - PrecisionTool
+- Presentation
 - PrinterAlt
 - Printer
 - PrintingPage
@@ -1027,6 +1042,7 @@
 - SidebarExpand
 - SigmaFunction
 - SimpleCart
+- SineWave
 - SingleTapGesture
 - Skateboard
 - Skateboarding
@@ -1058,6 +1074,7 @@
 - Sphere
 - Spiral
 - SpockHandGesture
+- SquareWave
 - Square
 - Stackoverflow
 - StarDashed
@@ -1068,6 +1085,7 @@
 - StatsDownSquare
 - StatsReport
 - StatsUpSquare
+- Strategy
 - Stretching
 - Stroller
 - StyleBorder
@@ -1089,6 +1107,7 @@
 - SwitchOn
 - SystemRestart
 - SystemShut
+- TShirt
 - Table2Columns
 - TableRows
 - Table
@@ -1168,8 +1187,11 @@
 - UserBag
 - UserCart
 - UserCircle
+- UserCrown
+- UserLove
 - UserScan
 - UserSquare
+- UserStar
 - User
 - VeganCircle
 - VeganSquare
@@ -1181,6 +1203,7 @@
 - Vials
 - VideoCameraOff
 - VideoCamera
+- VideoProjector
 - ViewColumns2
 - ViewColumns3
 - ViewGrid
@@ -1221,6 +1244,7 @@
 - Wifi
 - Wind
 - Windows
+- WomenTShirt
 - WrapText
 - Wrench
 - Wristwatch
