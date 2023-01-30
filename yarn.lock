@@ -530,10 +530,10 @@ html-minifier@^4.0.0:
     relateurl "^0.2.7"
     uglify-js "^3.5.1"
 
-iconoir@6.0.0:
-  version "6.0.0"
-  resolved "https://registry.yarnpkg.com/iconoir/-/iconoir-6.0.0.tgz#1d1f18439456c6bbda128e52fb703794e36a5936"
-  integrity sha512-ghej+WGy2rSC+IVGPi39596p1uAFh9rdAElFIYdT0CdMOtSd7uVjWsalPFo25dhTvtoxrS3iguao28qS2JCUPw==
+iconoir@6.2.0:
+  version "6.2.0"
+  resolved "https://registry.yarnpkg.com/iconoir/-/iconoir-6.2.0.tgz#fe8a3b538421bb1cab24ff4d023535ca55423266"
+  integrity sha512-N66dDd6MjpYFMpyzs+c91dHFodFWrtQHpzBJe6qAz5kA8Mt0Qy2PFxYaF3pesZzkTnHrZ6nArSD+EhbfnSImyg==
 
 import-fresh@^3.2.1:
   version "3.3.0"
