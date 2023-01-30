@@ -9,6 +9,7 @@
     Bed,
     AtSign,
     Divide,
+    Agile,
   } from "../lib";
   import AddPage from "../lib/AddPage.svelte";
 </script>
@@ -23,3 +24,4 @@
 <Bed />
 <AtSign />
 <Divide />
+<Agile />
