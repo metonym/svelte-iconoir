@@ -1,6 +1,6 @@
 # Icon Index
 
-> 1259 total icons
+> 1305 total icons
 
 ## Icons
 
@@ -46,6 +46,12 @@
 - AddSquare
 - AddToCart
 - AddUser
+- AdobeAfterEffects
+- AdobeIllustrator
+- AdobeIndesign
+- AdobeLightroom
+- AdobePhotoshop
+- AdobeXd
 - AfricanTree
 - Agile
 - AirConditioner
@@ -92,8 +98,10 @@
 - ArrowArchery
 - ArrowBlCircle
 - ArrowBlSquare
+- ArrowBl
 - ArrowBrCircle
 - ArrowBrSquare
+- ArrowBr
 - ArrowDownCircle
 - ArrowDown
 - ArrowEmailForward
@@ -105,8 +113,10 @@
 - ArrowSeparate
 - ArrowTlCircle
 - ArrowTlSquare
+- ArrowTl
 - ArrowTrCircle
 - ArrowTrSquare
+- ArrowTr
 - ArrowUnionVertical
 - ArrowUnion
 - ArrowUpCircle
@@ -122,11 +132,13 @@
 - Axes
 - Backward15Seconds
 - Bag
+- Balcony
 - Bank
 - Barcode
 - BasketballAlt
 - BasketballField
 - Basketball
+- Bathroom
 - Battery25
 - Battery50
 - Battery75
@@ -151,6 +163,8 @@
 - BinHalf
 - BinMinus
 - Bin
+- Binocular
+- BirthdayCake
 - Bishop
 - Bitbucket
 - BluetoothTag
@@ -216,6 +230,7 @@
 - CartAlt
 - Cart
 - Cash
+- Cellar
 - CenterAlign
 - ChatAdd
 - ChatBubbleCheck1
@@ -265,6 +280,7 @@
 - ColorFilter
 - ColorPickerEmpty
 - ColorPicker
+- ColorWheel
 - Combine
 - Community
 - CompactDisc
@@ -334,6 +350,10 @@
 - DesignNib
 - DesignPencil
 - Desk
+- DevModeLaptop
+- DevModePhone
+- Developer
+- DewPoint
 - Dialpad
 - Diameter
 - DiceFive
@@ -392,6 +412,7 @@
 - Eject
 - ElectronicsChip
 - ElectronicsTransistor
+- Elevator
 - EmojiBall
 - EmojiBlinkLeft
 - EmojiBlinkRight
@@ -459,7 +480,10 @@
 - Female
 - Figma
 - FileNotFound
+- FillColor
 - FilterAlt
+- FilterListCircle
+- FilterList
 - Filter
 - Finder
 - FingerprintCheckCircle
@@ -472,6 +496,7 @@
 - FingerprintWindow
 - Fingerprint
 - FireFlame
+- Fish
 - Fishing
 - Flare
 - FlashOff
@@ -585,6 +610,8 @@
 - HomeSimpleDoor
 - HomeSimple
 - HomeTable
+- HomeTemperatureIn
+- HomeTemperatureOut
 - HomeUser
 - Home
 - HorizDistributionLeft
@@ -595,6 +622,7 @@
 - Hospital
 - HotAirBalloon
 - Hourglass
+- HouseRooms
 - Html5
 - Hydrogen
 - Iconoir
@@ -615,6 +643,7 @@
 - IrisScan
 - ItalicSquare
 - Italic
+- Jellyfish
 - JournalPage
 - Journal
 - JpegFormat
@@ -678,10 +707,12 @@
 - LongArrowUpLeft
 - LongArrowUpRight
 - LotOfCash
+- Lullaby
 - MacControlKey
 - MacDock
 - MacOptionKey
 - MacOsWindow
+- MagicWand
 - MagnetEnergy
 - Magnet
 - MailIn
@@ -771,6 +802,7 @@
 - NavArrowUp
 - NavigatorAlt
 - Navigator
+- Neighbourhood
 - NetworkAlt
 - NetworkLeft
 - NetworkRight
@@ -786,6 +818,7 @@
 - NoLock
 - NoSmokingCircle
 - NoSmoking
+- NonBinary
 - Notes
 - NpmSquare
 - Npm
@@ -875,6 +908,7 @@
 - PlanetAlt
 - PlanetSat
 - Planet
+- Planimetry
 - Play
 - PlaylistAdd
 - PlaylistPlay
@@ -900,6 +934,7 @@
 - PrintingPage
 - PriorityDown
 - PriorityUp
+- PrivacyPolicy
 - PrivateWifi
 - ProfileCircle
 - Prohibition
@@ -1048,6 +1083,7 @@
 - Skateboarding
 - SkipNext
 - SkipPrev
+- Slash
 - SleeperChair
 - SmallLampAlt
 - SmallLamp
@@ -1074,6 +1110,7 @@
 - Sphere
 - Spiral
 - SpockHandGesture
+- Spotify
 - SquareWave
 - Square
 - Stackoverflow
@@ -1087,6 +1124,7 @@
 - StatsUpSquare
 - Strategy
 - Stretching
+- Strikethrough
 - Stroller
 - StyleBorder
 - SubmitDocument
@@ -1114,6 +1152,10 @@
 - TaskList
 - TelegramCircle
 - Telegram
+- TemperatureDown
+- TemperatureHigh
+- TemperatureLow
+- TemperatureUp
 - TennisBallAlt
 - TennisBall
 - TerminalTag
@@ -1131,6 +1173,7 @@
 - TifFormat
 - TiffFormat
 - Tiktok
+- TimeZone
 - TimerOff
 - Timer
 - Tools
@@ -1218,6 +1261,7 @@
 - VoiceSquare
 - Voice
 - VrSymbol
+- VueJs
 - Waist
 - Walking
 - Wallet
@@ -1244,6 +1288,7 @@
 - Wifi
 - Wind
 - Windows
+- Wolf
 - WomenTShirt
 - WrapText
 - Wrench
@@ -1256,6 +1301,7 @@
 - XboxY
 - XrayView
 - YCoordinate
+- Yelp
 - YenSquare
 - Yen
 - Yoga
