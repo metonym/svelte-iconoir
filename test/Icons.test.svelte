@@ -10,6 +10,7 @@
     AtSign,
     Divide,
     Agile,
+    AdobeAfterEffects,
   } from "../lib";
   import AddPage from "../lib/AddPage.svelte";
 </script>
@@ -25,3 +26,4 @@
 <AtSign />
 <Divide />
 <Agile />
+<AdobeAfterEffects />
