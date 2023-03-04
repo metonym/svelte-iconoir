@@ -1,6 +1,6 @@
 # Icon Index
 
-> 1305 total icons
+> 1314 total icons
 
 ## Icons
 
@@ -315,6 +315,7 @@
 - Css3
 - CursorPointer
 - CutAlt
+- CutSolidWithCurve
 - Cut
 - Cycling
 - Cylinder
@@ -454,6 +455,7 @@
 - Exclude
 - ExpandLines
 - Expand
+- Extrude
 - EyeAlt
 - EyeClose
 - EyeEmpty
@@ -481,6 +483,7 @@
 - Figma
 - FileNotFound
 - FillColor
+- Fillet3d
 - FilterAlt
 - FilterListCircle
 - FilterList
@@ -694,6 +697,7 @@
 - Lock
 - LockedBook
 - LockedWindow
+- Loft3d
 - LogDenied
 - LogIn
 - LogOut
@@ -867,6 +871,7 @@
 - PasswordError
 - PasswordPass
 - PasteClipboard
+- PatchHoles3d
 - PathArrow
 - PauseWindow
 - Pause
@@ -904,6 +909,7 @@
 - Pin
 - PineTree
 - Pinterest
+- Pipe3d
 - PizzaSlice
 - PlanetAlt
 - PlanetSat
@@ -938,6 +944,7 @@
 - PrivateWifi
 - ProfileCircle
 - Prohibition
+- ProjectCurve3d
 - Puzzle
 - QrCode
 - QuestionMark
@@ -1132,6 +1139,7 @@
 - Suggestion
 - SunLight
 - SvgFormat
+- Sweep3d
 - Swimming
 - SwipeDownGesture
 - SwipeLeftGesture
@@ -1222,6 +1230,7 @@
 - Union
 - Unity5
 - Unity
+- Unjoin3d
 - UpRoundArrow
 - UploadDataWindow
 - UploadSquare
