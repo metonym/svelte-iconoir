@@ -1,6 +1,6 @@
 {
   "name": "svelte-iconoir",
-  "version": "0.10.0",
+  "version": "0.11.0",
   "license": "MIT",
   "description": "Iconoir SVG icons as Svelte components",
   "author": "Eric Liu (https://github.com/metonym)",
