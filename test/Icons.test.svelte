@@ -11,6 +11,7 @@
     Divide,
     Agile,
     AdobeAfterEffects,
+    CardReader,
   } from "../lib";
   import AddPage from "../lib/AddPage.svelte";
 </script>
@@ -27,3 +28,4 @@
 <Divide />
 <Agile />
 <AdobeAfterEffects />
+<CardReader />
