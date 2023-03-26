@@ -1,6 +1,6 @@
 # Icon Index
 
-> 1314 total icons
+> 1335 total icons
 
 ## Icons
 
@@ -167,6 +167,8 @@
 - BirthdayCake
 - Bishop
 - Bitbucket
+- BitcoinCircle
+- BitcoinRotateOut
 - BluetoothTag
 - Bluetooth
 - BoldSquare
@@ -225,6 +227,7 @@
 - Carbon
 - CardIssue
 - CardLocked
+- CardReader
 - CardSecurity
 - CardWallet
 - CartAlt
@@ -275,6 +278,8 @@
 - Codepen
 - CoffeeCup
 - Coin
+- CoinsSwap
+- Coins
 - CollageFrame
 - Collapse
 - ColorFilter
@@ -282,6 +287,7 @@
 - ColorPicker
 - ColorWheel
 - Combine
+- Commodity
 - Community
 - CompactDisc
 - Compass
@@ -289,6 +295,7 @@
 - Compress
 - Computer
 - Consumable
+- Contactless
 - ControlSlider
 - Cookie
 - Cooling
@@ -376,6 +383,8 @@
 - DocSearch
 - DocStarAlt
 - DocStar
+- DogecoinCircle
+- DogecoinRotateOut
 - Dollar
 - DomoticIssue
 - Donate
@@ -443,6 +452,8 @@
 - Enlarge
 - Erase
 - ErrorWindow
+- EthereumCircle
+- EthereumRotateOut
 - EuroSquare
 - Euro
 - EvChargeAlt
@@ -578,6 +589,9 @@
 - HalfMoon
 - Hammer
 - HandBrake
+- HandCard
+- HandCash
+- HandContactless
 - Handbag
 - HardDrive
 - Hat
@@ -692,6 +706,8 @@
 - Linux
 - ListSelect
 - List
+- LitecoinCircle
+- LitecoinRotateOut
 - LoadActionFloppy
 - LockKey
 - Lock
@@ -889,6 +905,7 @@
 - PenTablet
 - Pentagon
 - PeopleTag
+- PercentRotateOut
 - PercentageCircle
 - PercentageSquare
 - Percentage
@@ -1012,6 +1029,10 @@
 - Ruler
 - Running
 - Safari
+- SafeArrowLeft
+- SafeArrowRight
+- SafeOpen
+- Safe
 - Sandals
 - SaveActionFloppy
 - SaveFloppyDisk
