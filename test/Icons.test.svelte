@@ -12,6 +12,7 @@
     Agile,
     AdobeAfterEffects,
     CardReader,
+    AppleShortcuts,
   } from "../lib";
   import AddPage from "../lib/AddPage.svelte";
 </script>
@@ -29,3 +30,4 @@
 <Agile />
 <AdobeAfterEffects />
 <CardReader />
+<AppleShortcuts />
