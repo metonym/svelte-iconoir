@@ -1,6 +1,6 @@
 # Icon Index
 
-> 1335 total icons
+> 1350 total icons
 
 ## Icons
 
@@ -12,6 +12,7 @@
 - \_3dArc
 - \_3dBridge
 - \_3dCenterBox
+- \_3dDraftFace
 - \_3dEllipseThreePts
 - \_3dEllipse
 - \_3dPtBox
@@ -86,6 +87,7 @@
 - AppleImac2021Side
 - AppleImac2021
 - AppleMac
+- AppleShortcuts
 - AppleSwift
 - AppleWallet
 - Apple
@@ -121,6 +123,7 @@
 - ArrowUnion
 - ArrowUpCircle
 - ArrowUp
+- ArrowsUpFromLine
 - Asana
 - AtSignCircle
 - AtSign
@@ -259,6 +262,7 @@
 - City
 - CleanWater
 - ClipboardCheck
+- ClockRotateRight
 - Clock
 - ClosedCaptions
 - Closet
@@ -289,8 +293,13 @@
 - Combine
 - Commodity
 - Community
+- CompAlignBottom
+- CompAlignLeft
+- CompAlignRight
+- CompAlignTop
 - CompactDisc
 - Compass
+- Component
 - CompressLines
 - Compress
 - Computer
@@ -320,6 +329,7 @@
 - CrownCircle
 - Crown
 - Css3
+- CubeReplaceFace
 - CursorPointer
 - CutAlt
 - CutSolidWithCurve
@@ -559,6 +569,7 @@
 - Github
 - GitlabFull
 - GlassEmpty
+- GlassFragile
 - GlassHalfAlt
 - GlassHalf
 - Glasses
@@ -604,6 +615,7 @@
 - Headset
 - HealthShield
 - Healthcare
+- HeartArrowDown
 - Heart
 - Heating
 - HeavyRain
@@ -1135,10 +1147,13 @@
 - SoundMin
 - SoundOff
 - Spades
+- Spark
+- Sparks
 - Sphere
 - Spiral
 - SpockHandGesture
 - Spotify
+- SquareCursor
 - SquareWave
 - Square
 - Stackoverflow
