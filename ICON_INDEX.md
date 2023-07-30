@@ -1,6 +1,6 @@
 # Icon Index
 
-> 1350 total icons
+> 1359 total icons
 
 ## Icons
 
@@ -69,18 +69,23 @@
 - Album
 - AlignBottomBox
 - AlignCenter
+- AlignHorizontalCenters
+- AlignHorizontalSpacing
 - AlignJustify
 - AlignLeftBox
 - AlignLeft
 - AlignRightBox
 - AlignRight
 - AlignTopBox
+- AlignVerticalCenters
+- AlignVerticalSpacing
 - AngleTool
 - AntennaOff
 - AntennaSignalTag
 - AntennaSignal
 - Antenna
 - AppNotification
+- AppStore
 - AppWindow
 - AppleHalfAlt
 - AppleHalf
@@ -203,6 +208,7 @@
 - BrainWarning
 - Brain
 - BreadSlice
+- BridgeSurface
 - BrightCrown
 - BrightStar
 - BrightnessWindow
@@ -258,6 +264,7 @@
 - ChurchAlt
 - Church
 - CinemaOld
+- CircleSpark
 - Circle
 - City
 - CleanWater
@@ -303,6 +310,7 @@
 - CompressLines
 - Compress
 - Computer
+- ConstrainedSurface
 - Consumable
 - Contactless
 - ControlSlider
@@ -331,6 +339,7 @@
 - Css3
 - CubeReplaceFace
 - CursorPointer
+- CurveArray
 - CutAlt
 - CutSolidWithCurve
 - Cut
