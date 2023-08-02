@@ -1,6 +1,6 @@
 # Icon Index
 
-> 1359 total icons
+> 1371 total icons
 
 ## Icons
 
@@ -863,6 +863,16 @@
 - Notes
 - NpmSquare
 - Npm
+- Number0Square
+- Number1Square
+- Number2Square
+- Number3Square
+- Number4Square
+- Number5Square
+- Number6Square
+- Number7Square
+- Number8Square
+- Number9Square
 - NumberedListLeft
 - NumberedListRight
 - Octagon
@@ -969,6 +979,7 @@
 - Pokeball
 - PositionAlign
 - Position
+- Post
 - Potion
 - Pound
 - PrecisionTool
@@ -1218,6 +1229,7 @@
 - TextBox
 - TextSize
 - Text
+- Threads
 - ThreePointsCircle
 - ThreeStars
 - ThumbsDown
