@@ -10,13 +10,11 @@
   "type": "module",
   "scripts": {
     "dev": "rollup -cw",
-    "predeploy": "rollup -c",
-    "deploy": "gh-pages -d dist",
+    "build": "rollup -c",
     "prepack": "svelvg glob=iconoir/icons iconIndex",
     "test": "svelte-check --workspace test"
   },
   "devDependencies": {
-    "gh-pages": "^4.0.0",
     "iconoir": "6.11.0",
     "rollup": "^2.77.3",
     "svelte": "^4.2.8",
